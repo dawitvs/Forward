@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home2/forwarxk/dev/
-    - /bin/cp -R * $DEPLOYPATH
